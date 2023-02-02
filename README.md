@@ -1,6 +1,9 @@
 # Alfresco AIO Project - SDK 4.2
 
-This is an All-In-One (AIO) project for Alfresco SDK 4.2.
+
+This project is meant to show ACS Extension Project creating a custom behavior on the event OnCreateNode, to copy targeted folder template into a desired folder in the ACS Repository.
+
+In Addition, this is an All-In-One (AIO) project for Alfresco SDK 4.2.
 
 Run with `./run.sh build_start` or `./run.bat build_start` and verify that it
 
