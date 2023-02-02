@@ -1,4 +1,4 @@
-# Alfresco AIO Project - SDK 4.2
+# Alfresco Custom Behavior Extension Project - AIO Project - SDK 4.2
 
 
 This project is meant to show ACS Extension Project creating a custom behavior on the event OnCreateNode, to copy targeted folder template into a desired folder in the ACS Repository.
